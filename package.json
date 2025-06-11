@@ -1,0 +1,24 @@
+{
+  "name": "backend_practice_01",
+  "version": "1.0.0",
+  "description": "This is a backend file just for practice production level code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryan-chettri/backend_practice_01.git"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "Aryan Chettri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aryan-chettri/backend_practice_01/issues"
+  },
+  "homepage": "https://github.com/aryan-chettri/backend_practice_01#readme"
+}
