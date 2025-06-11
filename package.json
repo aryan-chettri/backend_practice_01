@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/aryan-chettri/backend_practice_01#readme",
   "devDependencies": {
-    "nodemon": "^3.1.10"
+    "nodemon": "^3.1.10",
+    "prettier": "^3.5.3"
   }
 }
